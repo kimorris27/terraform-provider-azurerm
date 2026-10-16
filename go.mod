@@ -114,3 +114,9 @@ require (
 )
 
 go 1.26.9
+
+replace github.com/hashicorp/go-azure-sdk/data-plane => /Users/kimorris/projects/go-azure-sdk/data-plane
+
+replace github.com/hashicorp/go-azure-sdk/resource-manager => /Users/kimorris/projects/go-azure-sdk/resource-manager
+
+replace github.com/hashicorp/go-azure-sdk/sdk => /Users/kimorris/projects/go-azure-sdk/sdk
